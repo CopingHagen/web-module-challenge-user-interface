@@ -27,7 +27,7 @@ padding: 10px;
 line-height: 1.4;
 
 */
-p{
+p {
   font-size: 16px;
   font-family: roboto;
   padding: 10px;
@@ -39,7 +39,7 @@ p{
   border-radius: 10px;
 
 */
-img{
+img {
   border-radius:10px;
 }
 .content-row {
@@ -54,7 +54,7 @@ img{
 .container {
   /*======= create a width property. Set the value to 605px */
   margin: 0 auto;
-  width: 605px;
+  width: 700px;
 }
 
 .container header nav a {
